@@ -15,8 +15,8 @@
 
 1. Клонувати репозиторій та перейти в папку проєкту:
    ```bash
-   git clone [https://github.com/Denys0908/php-kp1.git](https://github.com/Denys0908/php-kp1.git)
-   cd php-kp1
+   git clone https://github.com/Denys0908/php_kp1.git
+   cd php_kp1
    ```
 2. Запустити вбудований сервер PHP:
    ```bash
